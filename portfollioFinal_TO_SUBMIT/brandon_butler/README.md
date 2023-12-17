@@ -1,3 +1,5 @@
+*** Node Modules has been deleted from React App in order to uplaod to GitHub. Please re-install prior to launching React App ***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

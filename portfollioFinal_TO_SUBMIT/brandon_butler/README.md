@@ -1,4 +1,4 @@
-#*** Node Modules has been deleted from React App in order to uplaod to GitHub. Please re-install prior to launching React App ***
+# *** Node Modules has been deleted from React App in order to uplaod to GitHub. Please re-install prior to launching React App ***
 
 # Getting Started with Create React App
 
